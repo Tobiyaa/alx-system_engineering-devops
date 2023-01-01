@@ -1,1 +1,1 @@
-shell variables and expansion
+This is for exercise on variables and expansions
